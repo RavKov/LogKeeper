@@ -9,7 +9,7 @@
 ## To run the entire app
 
 - Run the frontend (this repo)
-- Run the backend database.js file in node and download sql file with required database
+- Run the backend database.js file in node and download sql file with required database: https://github.com/RavKov/LogKeeperBackend
 
 ## Completed features
 
