@@ -8,7 +8,7 @@
 ## Completed features
 
 - Working long wood measuring calculator
-- Every single 
+- Every single log can be deleted
 - the calculator lets you choose the project and the woodpile from selected project 
 - Simple backend to send the data to (Node/Express and MySql database)
 
