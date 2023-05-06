@@ -1,5 +1,11 @@
 # LOGKEEPER APP
 
+## Stack
+
+- Frontend - React
+- Backend - Node with Express
+- Database - MySQL
+
 ## To run the entire app
 
 - Run the frontend (this repo)
