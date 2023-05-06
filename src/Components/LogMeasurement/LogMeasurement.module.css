@@ -1,0 +1,72 @@
+
+.logMeasurement {
+    margin: 5px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+    
+    
+}
+.logMeasurementForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+*{
+    box-sizing: border-box;
+
+}
+
+input, textarea, select {
+    
+    
+    padding: 4px;
+    font-size: 16px;
+}
+
+input, select {
+    margin-left: 10px;
+    width: 70%;
+    
+}
+label {
+    margin-bottom: 12px;
+    min-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input:read-only {
+    background-color: rgb(38, 83, 57);
+    color: white;
+    text-align: center;
+    border-radius: 0%;
+    border: 0;
+}
+
+button {
+    min-width: 100px;
+}
+
+.sendButton {
+    margin-bottom: 12px;
+}
+
+button {
+    background-color: rgb(163, 235, 160);
+    font-size: 17px;
+    border-radius: 0%;
+    border: 2px solid rgb(38, 83, 57);
+    cursor: pointer;
+}
+
+button:hover, button:focus {
+    background-color: rgb(88, 161, 86);
+    color: white;
+}

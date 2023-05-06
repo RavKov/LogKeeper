@@ -1,0 +1,26 @@
+
+.logTable, .logCell, .logHeaderCell {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 3px;
+}
+
+thead > tr{
+    color:rgb(49, 141, 46)
+}
+
+tbody > tr:nth-child(even) {
+    background-color: rgb(163, 235, 160);
+}
+
+.deleteCell {
+    
+    cursor: pointer;
+}
+
+tbody > tr:hover {
+    background-color: rgb(255, 173, 173);
+    
+}
+
+
