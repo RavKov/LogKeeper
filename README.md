@@ -1,4 +1,6 @@
 # LOGKEEPER APP
+## Video demo
+- https://www.youtube.com/watch?v=loB4ARrXtjA
 
 ## Stack
 
